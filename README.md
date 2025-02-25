@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sadegh Yazdani</h1>
+
 - 📫 How to reach me **m.s.yazdani86@gmail.com**
-- 💬 Ask me about python
+
+- 💬 Ask me about **python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
